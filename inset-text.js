@@ -6,6 +6,7 @@ fs.readFile(file,function(err,data){
 		console.log("文件读取失败");
 		return;
 	}
+	
 	console.log(data.toString());
 	var newFile=data.toString()+File.toString();
 	fs.writeFile(file,newFile,function(err){

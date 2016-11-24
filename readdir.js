@@ -4,5 +4,5 @@ fs.readdir("duan",function(err,files){
 		console.log("读取失败");
 		return;
 	}
-	console.log("success:"+files);
+	console.log("success:"+files);//files:数组（对象）
 });
