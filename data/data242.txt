@@ -1,0 +1,1 @@
+[{"title":"第1章课程简介&Xcode6.2下载","chapter":["1-1课程简介(02:07)","1-2Xcode6.2的下载(03:17)"]},{"title":"第2章如何通过Storyboard制作界面","chapter":["2-1如何通过Storyboard制作界面(09:41)"]},{"title":"第3章如何通过与InterfaceController连接来编写程序逻辑","chapter":["3-1如何通过与InterfaceController连接来编写程序逻辑(05:20)"]},{"title":"第4章在WatchApp里面制作动画效果","chapter":["4-1在WatchApp里面制作动画效果(10:16)"]}]

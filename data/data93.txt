@@ -1,0 +1,1 @@
+[{"title":"第1章CSSSprite雪碧图介绍及实现原理","chapter":["1-1CSSSprite雪碧图使用场景(05:06)","1-2CSSSprite雪碧图实现原理(03:11)"]},{"title":"第2章CSSSprite雪碧图实现方式","chapter":["2-1CSSSprite雪碧图实现方式(02:19)"]},{"title":"第3章CSSSprite雪碧图的应用","chapter":["3-1静态页面实现(08:57)","3-2编程练习","3-3CSSSprite应用(07:50)","3-4编程练习"]},{"title":"第4章编程挑战","chapter":["4-1编程挑战"]}]

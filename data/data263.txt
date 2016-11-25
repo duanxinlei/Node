@@ -1,0 +1,1 @@
+[{"title":"第1章Android属性动画赏析","chapter":["1-1认识Android属性动画(10:00)","1-2[Android]一重境界之ObjectAnimator(18:54)","1-3[Android]一重境界之动画监听事件(29:35)","1-4[Android]二重境界之ValueAnimator(18:25)"]}]

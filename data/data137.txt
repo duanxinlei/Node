@@ -1,0 +1,1 @@
+[{"title":"第1章Firebug工具简介","chapter":["1-1Firebug简介(00:52)","1-2Firebug打开和关闭(01:48)","1-3Firebug窗口概览(02:57)"]},{"title":"第2章Firebug应用","chapter":["2-1Firebug编辑HTML(02:36)","2-2Firebug处理CSS(04:32)","2-3评估页面下载速度(01:42)","2-4Ajax监听(03:15)","2-5JavaScript控制台(07:40)","2-6JavaScript代码调试(03:07)"]},{"title":"第3章Firebug进阶提示","chapter":["3-1进阶提示(02:46)","3-2开发人员工具(02:02)"]}]

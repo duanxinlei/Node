@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+	<style type="text/css">
+		*{margin:0;padding:0;}
+		html,body,#allmap{height:100%;}
+		#allmap{
+			margin:100px;
+			height:400px;
+			width:400px;
+		}
+		.anchorBL{display: none;}
+	</style>
+	<title>Document</title>
+	<script src="data.js"></script>
+	<script src="jquery.min.js"></script>
+	<script>
+	$(function(){
+		var provence = $("#provence");
+			var city = $("#city");
+			var area = $("#area");
+
+			for(var i in data){
+				var item=$("<option></option>");
+				item.html(data[i].name);	
+				item.appendTo(provence);
+				console.log(data[i]);
+				proIndex=this.selectedIndex;
+				// cityIndex=this.city.selectedIndex;
+				// areaIndex=this.city[cityIndex].selectedIndex;
+		}
+		provence.change(function(){
+			console.log(i);
+			for( var j in data[i].city){
+				var item=$("<option></option>");
+				item.html(data[i].city[j].name);	
+				item.appendTo(city);
+			}
+		})
+		// for(var i in data[proIndex]){
+		// 	var item=$("<option></option>");
+		// 	item.html(data[proIndex].city[cityIndex].area[i]);
+		// 	item.appendTo(area);
+		// }
+
+	})
+	</script>
+</head>
+<body>
+	<select id="provence"></select>
+	<select id="city"></select>
+	<select id="area"></select>
+
+	<div id="allmap"></div>
+</body>
+</html>

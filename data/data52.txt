@@ -1,0 +1,1 @@
+[{"title":"第1章效果演示","chapter":["1-1效果演示(02:34)"]},{"title":"第2章jQuery技术细节和实现","chapter":["2-1技术实现(15:33)"]},{"title":"第3章JavaScript技术实现特效","chapter":["3-1JavaScript技术实现（上）(06:10)","3-2JavaScript技术实现（下）(07:15)"]}]

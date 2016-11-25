@@ -1,0 +1,1 @@
+[{"title":"第1章JSBinding概述","chapter":["1-1JSBinding、ios7andJavaScriptCore介绍(18:05)"]},{"title":"第2章初始iOS7JavaScriptCoreAPI","chapter":["2-1初始iOS7JavaScriptCoreAPI(20:22)"]},{"title":"第3章JavaScriptCoreAPI进阶","chapter":["3-1JavaScriptCoreAPI进阶(22:31)"]}]
